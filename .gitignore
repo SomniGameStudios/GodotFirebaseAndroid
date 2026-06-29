@@ -26,6 +26,9 @@ render.experimental.xml
 *.jks
 *.keystore
 
+# Local export config (copy from export_presets.cfg.example)
+demo/export_presets.cfg
+
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
